@@ -1,4 +1,5 @@
 import random
+from math import trunc
 
 def birthdays():
     sucesses = 0
@@ -8,5 +9,6 @@ def birthdays():
             sucesses += 1
         else:
             continue
-    result = sucesses/100000
-    print(result)
+    result = (sucesses/100000)*100
+    return str(result) + '%'
+

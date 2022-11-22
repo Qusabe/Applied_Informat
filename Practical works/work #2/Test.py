@@ -1,6 +1,5 @@
 from paradoxes import *
 
-birthdays()
+print("Вероятность того, что др совпадет хотя бы у двух людей: ", birthdays())
 print(MontyHall(300))
 
-пппп
