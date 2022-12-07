@@ -1,6 +1,6 @@
-import difficulty, random
+import difficulty
 import record_handler as rec_h
-from replace_symbols import *
+import replace_symbols as rep_sym
 spisok = open("spisok.txt")
 def win():
     print("Вы выиграли!")
@@ -13,11 +13,9 @@ def win():
 
 
 def start():
-    with open('spisok.txt', encoding = "utf-8") as  spsk:
-        spisok = spsk.read().readlines()
-    secret_word = random.choice(spisok).lower()
+    secret_word = rep_sym.get_random_word()
     lives = difficulty.quantity_of_lives()
-    masked = masking(secret_word)
+    masked = rep_sym.masking(secret_word)
     while True:
         print(f'{masked} | lives = {lives}')
         guess = input("Назовите букву или слово целиком\n: ").lower()
@@ -29,9 +27,9 @@ def start():
                 print("Эта буква уже открыта!")
             else:
                 print("Правильно!")
-                masked = unmasking(secret_word,masked,guess)
+                masked = rep_sym.unmasking(secret_word,masked,guess)
 
-            if mask not in masked:
+            if rep_sym.mask not in masked:
                 win()
                 break
 
