@@ -15,6 +15,7 @@ def win():
 def start():
     secret_word = rep_sym.get_random_word()
     lives = difficulty.quantity_of_lives()
+    print(secret_word)
     masked = rep_sym.masking(secret_word)
     while True:
         print(f'{masked} | lives = {lives}')

@@ -21,11 +21,12 @@ def unmasking(secret_word, masked_word, guess):
 
     return total.join(masked_word_list)
 
-spisok = []
-with open('spisok.txt',encoding="utf-8") as spsk:
-    spisok = spsk.read().readlines()
+spiska = []
+with open(r'C:\Users\79675\Desktop\Applied_Informat\Practical works\work3\spisok.txt',encoding="utf-8") as spsk:
+    spiska = list(spsk.read())
 
 def get_random_word():
-    secret_word = random.choice(spisok).lower()
-    spisok.remove(secret_word)
+    secret_word = random.choice(spiska).lower()
+    spiska.remove(secret_word)
     return secret_word
+
