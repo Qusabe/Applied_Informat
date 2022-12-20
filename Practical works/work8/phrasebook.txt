@@ -1,0 +1,210 @@
+он | he | 9
+а | а | 9
+нет | none | 8
+это | is | 7
+ты | ration | 7
+за | per | 7
+артём | artem | 6
+туннель | tunnel | 6
+там | over there | 5
+мочь | might | 5
+так | so | 5
+раз | time | 5
+дозор | patrol | 5
+как | as | 4
+странный | odd | 4
+к | к | 4
+всё | Everything | 4
+по | to | 4
+станция | station | 4
+метр | meter | 4
+разведчик | SCOUT | 4
+ни | HN | 4
+но | но | 4
+ведь | am... | 4
+и | And | 36
+свой | its own | 3
+сам | self | 3
+назад | Back | 3
+шаг | pitch | 3
+да | yes | 3
+же | Ge | 3
+сразу | reveal everything | 3
+знать | Aristocracy | 3
+чёрный | black | 3
+я | . | 3
+идти | going | 3
+этот | this... | 3
+мы | we're | 3
+здесь | here | 3
+полежаевский | Polezhaevsky | 3
+выйти | Log out | 3
+она | she | 3
+история | history | 3
+тот | Thoth | 3
+который | which the | 3
+уже | Your Business | 3
+тянуть | to pull | 3
+ещё | more | 3
+стать | get | 3
+ну | well | 3
+не | not | 23
+они | Oni | 22
+кто | who | 2
+место | place | 2
+спина | back | 2
+осветить | Lighten | 2
+стоять | stand; | 2
+из | from | 2
+откуда | from which | 2
+пётр | Pyotr Vlk | 2
+андреевич | ANDREEVICH | 2
+удрать | beat it | 2
+думать | think | 2
+человек | persons | 2
+звук | sound | 2
+человеческий | человеческий | 2
+потом | Then | 2
+бы | would | 2
+вот | Here, | 2
+вы | vy | 2
+последний | last | 2
+тварь | Abomination | 2
+ладный | okay | 2
+инструкция | GUIDELINE | 2
+весь | весь | 2
+один | Alone | 2
+себя | it | 2
+пятисотый | five hundredth | 2
+то | than | 2
+никто | Innokenty Annensky | 2
+патруль | Patrol | 2
+пограничный | Borderline | 2
+столб | Column | 2
+никакой | none | 2
+возвращаться | Go Back | 2
+проверка | verification | 2
+час | hr. | 2
+случиться | happen | 2
+страшный | scary | 2
+сначала | first | 2
+пропадать | Disappear | 2
+уходить | to go away | 2
+жить | Ikiru | 2
+ничего | Nothing | 2
+пропасть | Chasm | 2
+с | p. | 12
+на | on | 12
+что | what | 11
+у | - | 10
+в | in | 10
+быть | be | 10
+эй | 'Hey!' | 1
+глянький | glossy | 1
+нехотя | unwillingly | 1
+подняться | Ascend | 1
+костёр | Bonfire | 1
+перетягивать | перетягивать | 1
+грудь | breast | 1
+автомат | Automaton | 1
+двинуться | move | 1
+тьма | Darkness | 1
+стоя | standing | 1
+край | Region | 1
+пространство | space | 1
+демонстративно | defiantly | 1
+можно | May I come in? | 1
+громкий | loud | 1
+внушительный | Impressive. | 1
+щёлкнуть | Click | 1
+затвор | Pallet | 1
+хрипло | hoarsely | 1
+крикнуть | shout | 1
+пароль | password | 1
+темнота | Darkness | 1
+минута | a minute | 1
+раздаваться | ring out | 1
+шорох | Rustling | 1
+глухой | Hearing impairment | 1
+бормотание | mutter | 1
+послышаться | послышаться | 1
+спешный | спешный | 1
+дробный | Fractional | 1
+ктоть | whoop | 1
+отступать | receded | 1
+вглубь | Into | 1
+напугать | Scare? | 1
+хриплый | hoarse | 1
+артёмов | artems | 1
+голос | voice | 1
+бряцание | rattling | 1
+оружие | arms | 1
+спешно | (hastily) | 1
+вернуться | go back | 1
+костра | scutch | 1
+бросить | throw | 1
+показаться | seem | 1
+назваться | call yourself | 1
+эх | Eh… | 1
+раззява | раззява | 1
+сказать | tell | 1
+отзываться | answer | 1
+стрелять | shoot | 1
+ж | g | 1
+подбираться | Select | 1
+вообще | at all | 1
+очень | very | 1
+узнавать | discover | 1
+если | if | 1
+разве | разве | 1
+хоть | Feyder – Nuh Follow Me 4. Ozma – […] | 1
+убежать | Run away. | 1
+вперёд | next | 1
+бросаться | cast | 1
+нападать | ATTACK | 1
+голый | bare | 1
+рука | arm | 1
+пулемёт | пулемёт | 1
+полный | Complete | 1
+рост | increase | 1
+какаять | Whatever | 1
+трусливый | Chicken-hearted | 1
+больно | painful. | 1
+умный | smart | 1
+есть | present | 1
+действовать | act | 1
+рассуждать | reason | 1
+лазутчик | scout | 1
+увидеть | Увидеть | 1
+мало | little | 1
+превосходящий | Superior | 1
+сила | strong | 1
+сейчас | Now, | 1
+прихлопнуть | swat | 1
+милый | nice | 1
+душа | Soul | 1
+нож | knife | 1
+горло | throat | 1
+вырезать | Cut | 1
+вон | 10,948,118,500 | 1
+внучка | granddaughter | 1
+сестра | sister | 1
+мария | Maria | 1
+замуж | wedze | 1
+морозов | Morozov | 1
+почитать | to read it. | 1
+про | on | 1
+правдивый | Truthful | 1
+дед | grandfather | 1
+мороз | Frost | 1
+далее | Next | 1
+примеч | note | 1
+автор | author | 1
+потому | because | 1
+вовремя | On Time | 1
+срезать | Slice | 1
+гад | Gad | 1
+смотреть | view tour | 1
+следующий | Дараачийн | 1
+бегать | run | 1
+заставить | - Force? | 1
