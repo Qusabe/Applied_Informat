@@ -5,9 +5,9 @@ from PIL import Image
 
 
 
-def get_menu():
+def menu():
     catalog = os.getcwd()
-    choice = int(input(f'\nТекущий каталог: {catalog}\n\n'
+    choice = int(input(f'\nТекущий каталог: {catalog}\n'
                             'Выберите действие:\n\n'
                             '0. Сменить рабочий каталог\n'
                             '1. Преобразовать PDF в Docx\n'
@@ -17,9 +17,9 @@ def get_menu():
                             '5. Выход\n\n'
                             'Ваш выбор: '))
     if choice == 0:
-        answer = input('Укажите корректный путь к рабочему каталогу: ')
-        if os.path.exists(answer) == True:
-            os.chdir(answer)
+        inp = input('Укажите корректный путь к рабочему каталогу: ')
+        if os.path.exists(inp) == True:
+            os.chdir(inp)
         else:
             print('Такого каталога нет')
     if choice == 1:
@@ -32,7 +32,7 @@ def get_menu():
         deleting_files(catalog)
     if choice == 5:
         return 0
-    return get_menu()
+    return menu()
 
 
 def convert_PDF_to_Docx(catalog):
@@ -142,4 +142,4 @@ def deleting_files(catalog):
                 print(f'Файл: {file} успешно удалён!')
 
 
-get_menu()
+menu()

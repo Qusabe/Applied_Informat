@@ -8,8 +8,8 @@ def get_normal_form(word):
 
 def normalize_words_list(words_list):
     for i in range(len(words_list)):
-        letter_list = [a for a in words_list[i] if a.isalpha()]
-        word = "".join(letter_list)
+        letters = [a for a in words_list[i] if a.isalpha()]
+        word = "".join(letters)
         words_list[i] = get_normal_form(word)
     return words_list
 
